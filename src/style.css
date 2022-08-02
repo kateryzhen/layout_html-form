@@ -1,1 +1,32 @@
 /* styles go here */
+.field {
+  margin-top: 10px;
+}
+
+.info {
+  margin-bottom: 20px;
+  border: solid black 1px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.registartion {
+  margin-bottom: 20px;
+  border: solid black 1px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.fact {
+  margin-bottom: 20px;
+  border: solid black 1px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.addinfo {
+  margin-bottom: 20px;
+  border: solid black 1px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+} 
